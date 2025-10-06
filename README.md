@@ -29,3 +29,7 @@ npm run server
 ## 🌟 Desafio extra
 - Criar uma rota que permita adicionar novas receitas.
 
+## 🚚 Entrega
+- Ao finalinzar o desenvolvimento não se esqueça de preencher o [relatório de entrega](https://forms.gle/H67QzeX4MKEajGAQ8)
+
+
