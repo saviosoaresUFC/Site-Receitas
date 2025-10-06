@@ -1,0 +1,521 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+      "foto": "/images/bolo_de_cenoura.jpg",
+      "introducao": "Um clássico irresistível! Este bolo de cenoura é super fofinho e úmido, perfeito para um lanche da tarde. A cobertura de chocolate caseira dá o toque final de sabor.",
+      "ingredientes": [
+        "3 cenouras médias",
+        "4 ovos",
+        "1 xícara de óleo",
+        "2 xícaras de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento em pó",
+        "4 colheres de sopa de chocolate em pó",
+        "1 xícara de leite",
+        "2 colheres de sopa de manteiga"
+      ],
+      "preparo": [
+        "No liquidificador, bata as cenouras, os ovos e o óleo até obter uma mistura homogênea.",
+        "Em uma tigela, misture o açúcar e a farinha. Adicione a mistura do liquidificador e misture bem.",
+        "Por último, adicione o fermento e misture delicadamente. Despeje a massa em uma forma untada e enfarinhada.",
+        "Asse em forno pré-aquecido a 180°C por 40 minutos.",
+        "Para a cobertura, leve ao fogo o chocolate em pó, a manteiga e o leite. Mexa até engrossar. Cubra o bolo ainda quente."
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Salada de Grão de Bico com Limão e Hortelã",
+      "foto": "/images/grao_de_bico.jpg",
+      "introducao": "Uma salada leve, refrescante e cheia de sabor. Ideal para os dias quentes ou como acompanhamento para um churrasco. O grão de bico traz uma textura incrível!",
+      "ingredientes": [
+        "2 xícaras de grão de bico cozido",
+        "1 tomate picado",
+        "1/2 cebola roxa picada",
+        "1/2 pepino picado",
+        "1/4 xícara de hortelã picada",
+        "Suco de 1 limão",
+        "2 colheres de sopa de azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "preparo": [
+        "Em uma tigela grande, misture o grão de bico, o tomate, a cebola roxa, o pepino e a hortelã.",
+        "Em um recipiente pequeno, prepare o molho misturando o suco de limão, o azeite, o sal e a pimenta.",
+        "Despeje o molho sobre a salada e misture bem. Sirva em seguida ou leve à geladeira por 30 minutos para intensificar os sabores."
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Strogonoff de Frango Cremoso",
+      "foto": "/images/strogonoff.webp",
+      "introducao": "Um clássico da culinária brasileira, este strogonoff é a definição de comfort food. Simples de fazer, rápido e com um molho incrivelmente cremoso que combina com arroz branco e batata palha.",
+      "ingredientes": [
+        "500g de filé de frango cortado em cubos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de manteiga",
+        "1 lata de extrato de tomate",
+        "1/2 xícara de ketchup",
+        "1/2 xícara de mostarda",
+        "1 caixa de creme de leite",
+        "Sal e pimenta a gosto",
+        "Batata palha para acompanhar"
+      ],
+      "preparo": [
+        "Em uma panela, derreta a manteiga e doure o frango. Tempere com sal e pimenta.",
+        "Adicione a cebola e o alho, refogando até ficarem macios.",
+        "Adicione o extrato de tomate, o ketchup e a mostarda. Misture bem e cozinhe por 5 minutos.",
+        "Desligue o fogo e adicione o creme de leite. Misture bem até o molho ficar homogêneo.",
+        "Sirva imediatamente, acompanhado de arroz e batata palha."
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Lasanha à Bolonhesa Clássica",
+      "foto": "/images/lasanha.jpg",
+      "introducao": "Uma das receitas italianas mais amadas do mundo. Esta lasanha, com camadas generosas de massa, molho à bolonhesa e queijo, é perfeita para refeições em família. É um prato que sempre agrada a todos.",
+      "ingredientes": [
+        "1 kg de carne moída",
+        "1 pacote de massa de lasanha pré-cozida",
+        "2 xícaras de molho de tomate",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "100g de queijo muçarela fatiado",
+        "50g de queijo parmesão ralado",
+        "Azeite, sal e pimenta a gosto"
+      ],
+      "preparo": [
+        "Em uma panela, refogue a cebola e o alho no azeite. Adicione a carne moída e cozinhe até dourar.",
+        "Acrescente o molho de tomate, sal e pimenta. Cozinhe por 15 minutos em fogo baixo.",
+        "Em um refratário, intercale camadas de molho, massa e muçarela. Repita as camadas até o topo.",
+        "Finalize com uma camada de molho e queijo parmesão ralado. Leve ao forno pré-aquecido a 200°C por 30 minutos ou até o queijo derreter e dourar."
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Guacamole Fresco e Rápido",
+      "foto": "/images/guacamole.jpg",
+      "introducao": "Uma explosão de sabor e frescor! O guacamole é um molho mexicano versátil, ideal para acompanhar nachos, tacos ou até mesmo como entrada. É super fácil de fazer e leva poucos ingredientes.",
+      "ingredientes": [
+        "2 abacates maduros",
+        "1/2 cebola roxa picada",
+        "1 tomate pequeno picado",
+        "Suco de 1 limão",
+        "Coentro picado a gosto",
+        "Sal e pimenta do reino"
+      ],
+      "preparo": [
+        "Amasse os abacates com um garfo em uma tigela, deixando alguns pedaços para dar textura.",
+        "Adicione a cebola roxa, o tomate e o coentro. Misture delicadamente.",
+        "Regue com o suco de limão, tempere com sal e pimenta e misture novamente. Sirva imediatamente."
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Sopa de Lentilha para Dias Frios",
+      "foto": "/images/sopa_de_lentilha.jpg",
+      "introducao": "Uma sopa nutritiva, reconfortante e cheia de sabor. Perfeita para os dias mais frios, a lentilha é uma excelente fonte de proteína e fibra. Esta receita é simples e satisfatória.",
+      "ingredientes": [
+        "1 xícara de lentilha",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 cenoura picada",
+        "1 talo de aipo picado",
+        "1 litro de caldo de legumes",
+        "Azeite, sal e cominho a gosto"
+      ],
+      "preparo": [
+        "Lave a lentilha e reserve. Em uma panela, aqueça o azeite e refogue a cebola, o alho, a cenoura e o aipo.",
+        "Adicione a lentilha e o caldo de legumes. Tempere com sal e cominho.",
+        "Cozinhe em fogo baixo por cerca de 30 minutos, ou até a lentilha ficar macia. Sirva quente."
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Mousse de Chocolate Fácil",
+      "foto": "/images/mousse.jpg",
+      "introducao": "Uma sobremesa clássica, leve e aerada, com um sabor intenso de chocolate. Esta receita é super fácil de preparar e ideal para quando a vontade de um doce irresistível bate de repente.",
+      "ingredientes": [
+        "200g de chocolate meio amargo",
+        "4 ovos",
+        "2 colheres de sopa de açúcar",
+        "1 pitada de sal"
+      ],
+      "preparo": [
+        "Derreta o chocolate em banho-maria ou no micro-ondas e deixe esfriar um pouco.",
+        "Separe as claras das gemas. Adicione as gemas ao chocolate derretido e misture bem.",
+        "Bata as claras em neve com uma pitada de sal. Adicione o açúcar e continue batendo até formar picos firmes.",
+        "Incorpore delicadamente as claras batidas à mistura de chocolate e gemas. Despeje em taças e leve à geladeira por 4 horas."
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Curry de Grão de Bico e Coco",
+      "foto": "/images/curry.jpg",
+      "introducao": "Um prato vegano saboroso, rico em especiarias e com uma cremosidade incrível. Este curry é perfeito para um almoço nutritivo e cheio de cor. Combina muito bem com arroz basmati.",
+      "ingredientes": [
+        "1 xícara de grão de bico cozido",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 pedaço pequeno de gengibre ralado",
+        "1 lata de leite de coco",
+        "1 lata de tomate picado",
+        "1 colher de chá de curry em pó",
+        "Azeite, sal e coentro fresco"
+      ],
+      "preparo": [
+        "Em uma panela, refogue a cebola, o alho e o gengibre no azeite até ficarem macios.",
+        "Adicione o curry em pó e cozinhe por 1 minuto. Acrescente o tomate picado e cozinhe por 5 minutos.",
+        "Adicione o grão de bico e o leite de coco. Cozinhe em fogo baixo por cerca de 10 minutos.",
+        "Finalize com coentro picado e sirva quente com arroz."
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Pão de Queijo Mineiro",
+      "foto": "/images/pao_de_queijo.jpg",
+      "introducao": "Um salgado tipicamente brasileiro, fofinho por dentro e crocante por fora. O pão de queijo é perfeito para o café da manhã ou lanche da tarde. Uma receita simples e deliciosa.",
+      "ingredientes": [
+        "500g de polvilho doce",
+        "1 xícara de leite",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de sal",
+        "3 ovos",
+        "200g de queijo minas curado ralado"
+      ],
+      "preparo": [
+        "Em uma panela, ferva o leite com o óleo e o sal.",
+        "Em uma tigela grande, despeje a mistura fervente sobre o polvilho. Misture bem até formar uma farofa.",
+        "Adicione os ovos, um por um, e sove a massa com as mãos até ficar homogênea.",
+        "Acrescente o queijo ralado e misture. Faça bolinhas com a massa e coloque em uma assadeira untada.",
+        "Asse em forno pré-aquecido a 180°C por cerca de 20-30 minutos, ou até dourarem."
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Moqueca de Peixe Baiana",
+      "foto": "/images/moqueca_de_peixe_baiana.jpg",
+      "introducao": "Um prato tradicional da Bahia, com peixe cozido em um molho rico e cremoso de leite de coco, azeite de dendê, pimentões e coentro. Uma explosão de sabores tropicais!",
+      "ingredientes": [
+        "1 kg de filé de peixe (cação, garoupa)",
+        "1 pimentão verde, 1 pimentão vermelho, 1 pimentão amarelo",
+        "2 cebolas",
+        "2 tomates",
+        "1 xícara de leite de coco",
+        "2 colheres de sopa de azeite de dendê",
+        "Coentro e cebolinha picados a gosto",
+        "Sal, pimenta e suco de limão"
+      ],
+      "preparo": [
+        "Tempere o peixe com sal, pimenta e limão. Reserve.",
+        "Em uma panela de barro, alterne camadas de rodelas de cebola, pimentões e tomate.",
+        "Disponha os filés de peixe sobre os vegetais. Adicione o leite de coco, o azeite de dendê e cubra com o restante dos vegetais.",
+        "Cozinhe em fogo baixo por cerca de 20 minutos. Finalize com coentro e cebolinha picados."
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "Feijoada Completa",
+      "foto": "/images/feijoada.jpg",
+      "introducao": "O prato nacional do Brasil! Uma feijoada saborosa e completa, com feijão preto, carnes de porco e embutidos. É o prato perfeito para um almoço de sábado, acompanhado de arroz, couve e laranja.",
+      "ingredientes": [
+        "500g de feijão preto",
+        "100g de costelinha de porco defumada",
+        "100g de lombo de porco salgado",
+        "100g de paio",
+        "100g de linguiça calabresa",
+        "100g de carne seca",
+        "1 cebola grande",
+        "3 dentes de alho",
+        "Folhas de louro, sal e pimenta"
+      ],
+      "preparo": [
+        "Deixe as carnes salgadas e a carne seca de molho na água por 24h, trocando a água várias vezes. Cozinhe o feijão com as folhas de louro.",
+        "Em outra panela, ferva as carnes salgadas para retirar o excesso de sal. Adicione-as ao feijão.",
+        "Em uma frigideira, refogue a cebola e o alho. Adicione o paio e a linguiça e doure. Adicione o refogado ao feijão.",
+        "Cozinhe em fogo baixo por cerca de 1 hora, ou até que o feijão e as carnes estejam macios e o caldo encorpado. Ajuste o sal e sirva."
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Pastel de Belém (Pastel de Nata)",
+      "foto": "/images/pastel_de_belem.jpg",
+      "introducao": "Uma das sobremesas portuguesas mais famosas, com uma massa folhada crocante e um recheio de creme de ovos cremoso e caramelizado. Uma iguaria que derrete na boca.",
+      "ingredientes": [
+        "1 rolo de massa folhada",
+        "1 xícara de açúcar",
+        "1/2 xícara de água",
+        "1 pau de canela",
+        "6 gemas de ovo",
+        "1/2 xícara de leite",
+        "1 colher de sopa de farinha de trigo"
+      ],
+      "preparo": [
+        "Enrole a massa folhada em forma de cilindro e corte em 12 fatias. Coloque cada fatia em uma forma de cupcake e pressione para formar a base.",
+        "Em uma panela, faça uma calda com o açúcar, a água e a canela. Cozinhe por 5 minutos e reserve.",
+        "Em uma tigela, misture as gemas, o leite e a farinha. Adicione a calda morna, misture bem e leve ao fogo baixo até engrossar, sem ferver.",
+        "Despeje o creme nas forminhas com a massa e asse em forno pré-aquecido a 250°C por cerca de 10-15 minutos, até dourar e o creme caramelizar."
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "Pizza Margherita",
+      "foto": "/images/marguerita.jpg",
+      "introducao": "A clássica pizza italiana em sua forma mais simples e deliciosa. Com molho de tomate, queijo muçarela fresco, manjericão e um toque de azeite. É a prova de que a simplicidade pode ser sublime.",
+      "ingredientes": [
+        "Massa de pizza",
+        "Molho de tomate",
+        "200g de muçarela fresca",
+        "Folhas de manjericão fresco",
+        "Azeite de oliva extra virgem",
+        "Sal a gosto"
+      ],
+      "preparo": [
+        "Abra a massa de pizza em um círculo. Espalhe o molho de tomate sobre a massa, deixando as bordas livres.",
+        "Cubra com as fatias de muçarela fresca. Leve ao forno pré-aquecido a 220°C por cerca de 10-15 minutos, ou até que o queijo derreta e as bordas dourem.",
+        "Retire do forno, adicione as folhas de manjericão fresco e regue com um fio de azeite antes de servir."
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Arroz de Braga (Arroz com Pato)",
+      "foto": "/images/arroz_com_pato.png",
+      "introducao": "Uma das receitas mais reconfortantes de Portugal. Com arroz cremoso e pato desfiado, o arroz de pato é um prato rico e saboroso, ideal para uma refeição especial em família.",
+      "ingredientes": [
+        "1 pato inteiro",
+        "2 xícaras de arroz agulhinha",
+        "1 cebola",
+        "2 dentes de alho",
+        "100g de bacon ou chouriço",
+        "Azeite, sal, pimenta e folhas de louro"
+      ],
+      "preparo": [
+        "Cozinhe o pato com cebola, alho, louro e sal até ficar macio. Desfie a carne e reserve o caldo do cozimento.",
+        "Em outra panela, refogue a cebola e o alho picados no azeite. Adicione o bacon ou chouriço e doure.",
+        "Adicione o arroz e frite por 1 minuto. Acrescente o caldo do pato e cozinhe até a água secar e o arroz ficar macio.",
+        "Em um refratário, coloque uma camada de arroz, a carne de pato desfiada e finalize com outra camada de arroz. Leve ao forno para dourar."
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Bifanas de Porco",
+      "foto": "/images/bifanas_no_molho.jpg",
+      "introducao": "Um clássico da comida de rua portuguesa, as bifanas são fatias finas de carne de porco marinadas e grelhadas, servidas em um pão crocante. Simples, rápido e delicioso.",
+      "ingredientes": [
+        "500g de bife de porco fatiado fino",
+        "4 pães (tipo carcaça)",
+        "2 dentes de alho picados",
+        "1 folha de louro",
+        "1/2 xícara de vinho branco",
+        "Azeite, sal e pimenta"
+      ],
+      "preparo": [
+        "Tempere os bifes de porco com alho, sal, pimenta, azeite, louro e vinho branco. Deixe marinar por pelo menos 30 minutos.",
+        "Em uma frigideira, grelhe os bifes de porco um por um, usando o líquido da marinada para umedecer a carne enquanto cozinha.",
+        "Recheie os pães com a carne e sirva quente, regando com o molho da panela."
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Omelete de Legumes",
+      "foto": "/images/omelete_vegano_de_legumes.jpg",
+      "introducao": "Uma refeição rápida e saudável, perfeita para o café da manhã, almoço ou jantar. Você pode usar os legumes que tiver na geladeira, tornando-a uma receita super versátil.",
+      "ingredientes": [
+        "3 ovos",
+        "1/2 cebola picada",
+        "1/2 pimentão picado",
+        "1/2 xícara de espinafre",
+        "1/4 xícara de queijo ralado",
+        "Sal e pimenta",
+        "Azeite para cozinhar"
+      ],
+      "preparo": [
+        "Em uma tigela, bata os ovos com o sal e a pimenta.",
+        "Em uma frigideira, aqueça o azeite e refogue a cebola e o pimentão até ficarem macios. Adicione o espinafre e cozinhe por mais um minuto.",
+        "Despeje os ovos batidos sobre os legumes. Cozinhe em fogo baixo até as bordas da omelete ficarem firmes.",
+        "Polvilhe o queijo sobre a omelete e dobre ao meio. Cozinhe por mais um minuto e sirva."
+      ]
+    },
+    {
+      "id": 17,
+      "titulo": "Torta de Frango Cremosa",
+      "foto": "/images/torta_de_frango.jpg",
+      "introducao": "Uma torta salgada clássica, com recheio de frango cremoso e uma massa crocante e dourada. É uma opção perfeita para um almoço rápido ou para levar em um piquenique.",
+      "ingredientes": [
+        "1 pacote de massa para torta",
+        "500g de peito de frango cozido e desfiado",
+        "1 lata de milho verde",
+        "1 lata de creme de leite",
+        "1/2 xícara de requeijão",
+        "1 cebola picada",
+        "Sal, pimenta e cheiro-verde"
+      ],
+      "preparo": [
+        "Em uma panela, refogue a cebola e adicione o frango desfiado, o milho, o sal, a pimenta e o cheiro-verde.",
+        "Acrescente o creme de leite e o requeijão. Misture bem e reserve.",
+        "Forre uma forma com metade da massa. Adicione o recheio e cubra com a outra metade da massa. Feche as bordas e faça furos com um garfo.",
+        "Asse em forno pré-aquecido a 180°C por cerca de 30-40 minutos, ou até a massa ficar dourada."
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "Salada de Quinoa com Vegetais",
+      "foto": "/images/salada_de_quinoa.png",
+      "introducao": "Uma salada colorida e cheia de nutrientes, perfeita para uma refeição leve e saudável. A quinoa é uma excelente fonte de proteína, e os vegetais adicionam sabor e crocância.",
+      "ingredientes": [
+        "1 xícara de quinoa",
+        "2 xícaras de água",
+        "1/2 xícara de pepino picado",
+        "1/2 xícara de tomate cereja cortado ao meio",
+        "1/4 xícara de cebola roxa picada",
+        "Suco de 1 limão",
+        "Azeite, sal e pimenta"
+      ],
+      "preparo": [
+        "Enxágue a quinoa em água corrente. Em uma panela, cozinhe a quinoa com a água por cerca de 15 minutos, até a água ser absorvida. Deixe esfriar.",
+        "Em uma tigela grande, misture a quinoa cozida com o pepino, o tomate e a cebola roxa.",
+        "Prepare o molho misturando o suco de limão, azeite, sal e pimenta. Despeje sobre a salada e misture bem. Sirva."
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "Bacalhau à Brás",
+      "foto": "/images/bacalhau_a_bras.jpg",
+      "introducao": "Um dos pratos de bacalhau mais populares em Portugal, com uma combinação de bacalhau desfiado, batata-palha, ovos e azeitonas. É um prato delicioso e reconfortante.",
+      "ingredientes": [
+        "500g de bacalhau demolhado e desfiado",
+        "300g de batata palha",
+        "1 cebola grande fatiada",
+        "3 dentes de alho picados",
+        "5 ovos",
+        "Azeitonas pretas",
+        "Azeite, sal e salsa picada"
+      ],
+      "preparo": [
+        "Em uma panela, refogue a cebola e o alho no azeite até ficarem macios. Adicione o bacalhau desfiado e refogue por mais alguns minutos.",
+        "Junte a batata palha e misture bem. Bata os ovos com sal e pimenta e despeje sobre a mistura.",
+        "Mexa delicadamente até que os ovos estejam cozidos. Decore com azeitonas e salsa picada e sirva."
+      ]
+    },
+    {
+      "id": 20,
+      "titulo": "Sopa de Legumes",
+      "foto": "/images/sopa_de_legumes.jpg",
+      "introducao": "Uma sopa leve, nutritiva e fácil de fazer, perfeita para uma refeição saudável. Você pode usar os legumes da estação e criar a sua própria versão.",
+      "ingredientes": [
+        "1 abobrinha",
+        "1 cenoura",
+        "1 batata",
+        "1/2 abóbora",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 litro de água ou caldo de legumes",
+        "Azeite, sal e pimenta"
+      ],
+      "preparo": [
+        "Pique todos os legumes em cubos. Em uma panela, aqueça o azeite e refogue a cebola e o alho.",
+        "Adicione os legumes picados e refogue por 5 minutos. Cubra com a água ou caldo de legumes.",
+        "Cozinhe em fogo médio até que os legumes fiquem macios. Use um mixer para bater a sopa até ficar cremosa. Ajuste o sal e a pimenta e sirva."
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Bolinho de Chuva",
+      "foto": "/images/bolinho_de_chuva.png",
+      "introducao": "Um clássico da culinária afetiva, os bolinhos de chuva são pequenas massas fritas e polvilhadas com açúcar e canela. Ideais para um café da tarde aconchegante.",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1/2 xícara de açúcar",
+        "1 colher de sopa de fermento em pó",
+        "1 ovo",
+        "1 xícara de leite",
+        "Óleo para fritar",
+        "Açúcar e canela para polvilhar"
+      ],
+      "preparo": [
+        "Em uma tigela, misture a farinha, o açúcar e o fermento. Em outra tigela, bata o ovo e misture com o leite. Adicione os ingredientes líquidos aos secos e misture bem.",
+        "Em uma panela, aqueça o óleo. Com a ajuda de duas colheres de sopa, pegue porções da massa e coloque no óleo quente. Frite até dourarem.",
+        "Retire os bolinhos do óleo e coloque-os em um prato com papel toalha para escorrer. Polvilhe com a mistura de açúcar e canela e sirva quente."
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "Camarão com Alho e Óleo",
+      "foto": "/images/camarao_no_alho_e_oleo.jpg",
+      "introducao": "Uma entrada de frutos do mar clássica, o camarão é salteado em um molho simples e saboroso de alho e azeite. Perfeito para servir com pão e molhar no molho.",
+      "ingredientes": [
+        "500g de camarão médio, limpo",
+        "6 dentes de alho picados",
+        "1/2 xícara de azeite de oliva",
+        "Suco de 1 limão",
+        "Salsa picada a gosto",
+        "Sal e pimenta a gosto"
+      ],
+      "preparo": [
+        "Tempere o camarão com sal e pimenta. Em uma frigideira grande, aqueça o azeite em fogo médio. Adicione o alho e refogue até perfumar, sem deixar queimar.",
+        "Adicione o camarão e cozinhe por cerca de 2-3 minutos de cada lado, até que fiquem rosados e cozidos. Retire do fogo.",
+        "Junte o suco de limão e a salsa picada. Misture bem e sirva imediatamente, acompanhado de pão."
+      ]
+    },
+    {
+      "id": 23,
+      "titulo": "Pudim de Leite Condensado",
+      "foto": "/images/pudim,jpg",
+      "introducao": "Uma sobremesa brasileira clássica, com uma textura suave e cremosa e uma calda de caramelo deliciosa. É a sobremesa perfeita para qualquer ocasião especial.",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "1 lata de leite (use a lata de leite condensado para medir)",
+        "3 ovos",
+        "1 xícara de açúcar para a calda"
+      ],
+      "preparo": [
+        "Em uma forma de pudim, derreta o açúcar em fogo baixo até formar um caramelo. Espalhe o caramelo por toda a forma e reserve.",
+        "No liquidificador, bata o leite condensado, o leite e os ovos até obter uma mistura homogênea.",
+        "Despeje a mistura na forma caramelizada. Cubra com papel alumínio e leve para assar em banho-maria em forno pré-aquecido a 180°C por cerca de 1 hora.",
+        "Deixe esfriar completamente antes de desenformar e servir gelado."
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Bolinhos de Bacalhau",
+      "foto": "/images/bolinho_de_bacalhau.jpg",
+      "introducao": "Um petisco português clássico e delicioso, feito com uma mistura de bacalhau, batata e temperos. Fritos até ficarem dourados e crocantes por fora, são perfeitos para acompanhar uma cerveja gelada.",
+      "ingredientes": [
+        "500g de batatas",
+        "300g de bacalhau cozido e desfiado",
+        "2 ovos",
+        "1/2 cebola picada",
+        "Salsa picada a gosto",
+        "Sal e pimenta",
+        "Óleo para fritar"
+      ],
+      "preparo": [
+        "Cozinhe as batatas até ficarem macias. Escorra e amasse-as para formar um purê. Deixe esfriar.",
+        "Em uma tigela, misture o purê de batata, o bacalhau desfiado, a cebola picada, a salsa, os ovos, o sal e a pimenta.",
+        "Com a ajuda de duas colheres, modele os bolinhos. Frite-os em óleo quente até dourarem por todos os lados. Retire e coloque sobre papel toalha para escorrer o excesso de óleo. Sirva quente."
+      ]
+    },
+    {
+      "id": 25,
+      "titulo": "Sopa de Tomate com Ovos Escalfados",
+      "foto": "/images/sopa_de_tomate.jpg",
+      "introducao": "Uma sopa reconfortante e nutritiva, com um sabor intenso de tomate. Os ovos escalfados adicionam uma cremosidade extra, transformando-a em uma refeição completa.",
+      "ingredientes": [
+        "1 kg de tomates maduros",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 colher de sopa de azeite",
+        "1 litro de água",
+        "2 ovos",
+        "Sal e pimenta",
+        "Manjericão fresco para decorar"
+      ],
+      "preparo": [
+        "Pique os tomates, a cebola e o alho. Em uma panela, aqueça o azeite e refogue a cebola e o alho. Adicione o tomate e cozinhe por 10 minutos.",
+        "Adicione a água, sal e pimenta. Cozinhe por mais 15 minutos e bata a sopa com um mixer até ficar lisa.",
+        "Volte a sopa para o fogo e, com cuidado, quebre os ovos diretamente na panela. Cozinhe em fogo baixo por cerca de 3-5 minutos, até que os ovos estejam cozidos. Sirva imediatamente, com manjericão fresco por cima."
+      ]
+    }
+  ]
+}
